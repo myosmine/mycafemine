@@ -6,6 +6,9 @@ MyMinerOS; internet kafeler, birden fazla bilgisayarı olan kullanıcılar ve ke
 
 > **Bu dağıtım WildRig veya başka bir madenci yazılımı içermez.** MyMinerOS yönetim paneli ve istemci dosyalarını sağlar. Madencilik için gerekli WildRig dosyalarını geliştiricisinin indirme sayfasından ayrıca edinmeniz gerekir.
 
+Bu Minerdır ayrıca indirilmeli
+https://github.com/andru-kun/wildrig-multi/releases
+
 ## Özellikler
 
 - E-posta ve şifreyle üyelik ve giriş.
